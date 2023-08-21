@@ -1,0 +1,5 @@
+npm
+    - Você normalmente está instalando no node-modules
+
+npx
+    - Você normalmente está executando no node-modules
