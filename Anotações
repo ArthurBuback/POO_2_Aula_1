@@ -3,3 +3,5 @@ npm
 
 npx
     - Você normalmente está executando no node-modules
+
+No "tsconfig", está tudo comentado; pode-se descomentar e alterar a informação após os ":" para alterara seu local de saída (?).
